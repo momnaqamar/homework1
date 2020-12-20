@@ -60,3 +60,4 @@ WHEN I
 
 ## Usage
 Clicking the link takes you to a small description of what it is. 
+![alt text](assets/images/screenshot-1.jpg)
